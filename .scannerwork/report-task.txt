@@ -1,0 +1,6 @@
+projectKey=team_8
+serverUrl=http://localhost:8084
+serverVersion=8.7.1.42226
+dashboardUrl=http://localhost:8084/dashboard?id=team_8
+ceTaskId=AYNalJryL2z3Pvq4OFhV
+ceTaskUrl=http://localhost:8084/api/ce/task?id=AYNalJryL2z3Pvq4OFhV
